@@ -44,12 +44,3 @@ An end-to-end Natural Language Processing (NLP) and Machine Learning project des
 - **Environment:** Jupyter Notebook / VS Code
 
 ---
-
-## 🚀 Quick Setup & Installation
-
-To run this project locally on your machine, follow these steps:
-
-1. **Clone the repository:**
-```bash
-   git clone [https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git](https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git)
-   cd YOUR_REPOSITORY_NAME
