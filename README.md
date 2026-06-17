@@ -15,6 +15,11 @@ An end-to-end Natural Language Processing (NLP) and Machine Learning project des
 
 ---
 
+## 🚀 Production Deployment
+🌍 **Live Application:** [live](https://spam-classifier-app-gecu.onrender.com/)
+
+---
+
 ## ⚙️ Project Workflow & Lifecycle
 
 1. **Data Cleaning:** Handled missing values, duplicates, and performed text lowercasing.
